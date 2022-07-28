@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BalogunSoliu
 - 👀 I’m interested in anything python. 
-- 💞️ Being two years since I printed 'Hello World'
+- 👀 Data Science, Machine Learning, AI, Software Engineering.
 - 💞️ I’m looking to collaborate on any python project.
 - geniussoliubalogun at gmail dot com
 <!---
